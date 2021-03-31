@@ -39,3 +39,7 @@ Esse projeto foi desenvolvido utilizando:
 
 - ReactJS
 - StyledComponents
+
+## 💻 Projeto
+
+Esse projeto foi desenvolvido com o intuíto de aprender como criar um componente que tem seu estado manipulado pelo index.
